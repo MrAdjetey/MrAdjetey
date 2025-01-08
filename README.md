@@ -14,7 +14,7 @@
 <h2>GitHub Porfolio</h2>
 
 - <b>Porfolio Website</b>
-  - Top 20 UK YouTubers 2024 Dashboard(https://github.com/joshmadakor1/Algorithms-Practice)
+  - Top 20 UK YouTubers 2024 (https://mradjetey.github.io/topUKyoutubers.github.io/)
 
 
 <h2> 🤳 Connect with me:</h2>
