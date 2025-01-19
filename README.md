@@ -3,13 +3,13 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Top UK YouTubers</b>
-  - Top 20 UK YouTubers 2024 Dashboard(https://github.com/joshmadakor1/Algorithms-Practice)
+  - Top 20 UK YouTubers 2024 (https://github.com/joshmadakor1/Algorithms-Practice)
 
  
 <h2>👨‍💻 Software Development Project:</h2>
 
 - <b>Quiz Application</b>
-  - Mathematics Quiz App in JAVA & Android Studio(https://github.com/joshmadakor1/Algorithms-Practice)
+  - Mathematics Quiz App in JAVA & Android Studio (https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>GitHub Porfolio</h2>
 
