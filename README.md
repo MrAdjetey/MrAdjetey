@@ -1,4 +1,4 @@
-<h1>Hi, I'm Enoch! <br/><a href=> I have strong Data Analytics skills, and I am open to roles in IT Consultant, Web Development and other IT related roles. Kindly see below my skills for related roles.</a></h1>
+<h1>Hi, I'm Enoch! </h1> <br/> <h2>I have strong Data Analytics skills, and I am open to roles in IT Consultant, Web Development and other IT related roles. Kindly see below my skills for related roles.</h2>
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
