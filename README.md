@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Top UK YouTubers</b>
-  - Top 20 UK YouTubers 2024 (https://github.com/joshmadakor1/Algorithms-Practice)
+  - Top 20 UK YouTubers 2024 (https://github.com/MrAdjetey/topUKyoutubers.github.io)
 
  
 <h2>👨‍💻 Software Development Project:</h2>
