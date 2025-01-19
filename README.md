@@ -9,7 +9,7 @@
 <h2>👨‍💻 Software Development Project:</h2>
 
 - <b>Quiz Application</b>
-  - Mathematics Quiz App in JAVA & Android Studio (https://github.com/joshmadakor1/Algorithms-Practice)
+  - Mathematics Quiz App in JAVA & Android Studio (https://github.com/MrAdjetey/mathematicsQuizApp)
 
 <h2>GitHub Porfolio</h2>
 
