@@ -1,4 +1,4 @@
-<h1>Hi, I'm Enoch! </h1> <h2>I have strong Data Analytics skills, and I am open to roles in IT Consultant, Web Development and other IT related roles. Kindly see below my skills for related roles.</h2>
+<h1>Hi, I'm Enoch! </h1> <h2>I'm a Data Analytics and IT Consulting enthusiast with an MSc in Applied Computing & Information Technology. I have a strong passion for turning data into actionable insights and leveraging technology to solve business challenges.</h2>
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
