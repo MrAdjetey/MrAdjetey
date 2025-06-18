@@ -11,7 +11,7 @@
 - <b>Quiz Application</b>
   - Mathematics Quiz App in JAVA & Android Studio (https://github.com/MrAdjetey/mathematicsQuizApp)
 
-<h2>Projects Website</h2>
+<h2>Project Website</h2>
 
 - <b>Porfolio Website</b>
   - Top 20 UK YouTubers 2024 (https://mradjetey.github.io/topUKyoutubers.github.io/)
