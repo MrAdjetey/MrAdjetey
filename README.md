@@ -6,23 +6,16 @@
   - Top 20 UK YouTubers 2024 (https://github.com/MrAdjetey/topUKyoutubers.github.io)
   - MaxMart Express Sales Performance (https://github.com/MrAdjetey/grocery_perfromance-maxM-)
 
- 
-<h2>👨‍💻 Software Development Project:</h2>
-
-- <b>Quiz Application</b>
-  - Mathematics Quiz App in JAVA & Android Studio (https://github.com/MrAdjetey/mathematicsQuizApp)
-
 <h2>Project Website</h2>
 
 - <b>Porfolio Website</b>
   - Top 20 UK YouTubers 2024 (https://mradjetey.github.io/topUKyoutubers.github.io/)
   - MaxMart Express Sales Performance (https://mradjetey.github.io/grocery_perfromance-maxM-/) 
-  - Mathematics Quiz App ()
 
 <h2>Skills & Technical Tools</h2>
 
 - <b>Tools & Technologies:</b>
-  - SQL | Excel | Tableau | Power BI | Python | Data Cleaning | Data Visualization | Data Manipulation | Microsoft Office Packages | HTML & CSS | Java | Cyber Intelligence.
+  - SQL(SSMS) | Excel (PivotTables&Charts, Lookups, Aggregation) | Tableau | Power BI (DAX, Power Query) | Python(pandas, NumPy) | Data Cleaning | Data Visualization | Data Manipulation | CRM Systems | Microsoft Office Packages | HTML & CSS | Java | Cyber Intelligence.
 - <b>Professional:</b>
   - Problem solving | Adaptability | Detail Oriented |Team work | Time management | Communication | Leadership.
   
