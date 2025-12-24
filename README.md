@@ -1,5 +1,4 @@
-<h1>Hi, I'm Enoch! </h1> <h2>I'm a Data Analytics and IT Consulting enthusiast with MSc in Applied Computing & Information Technology. I have a strong passion for turning data into actionable insights and leveraging technology to solve business challenges.</h2>
-
+<h1>Hi, I'm Enoch! </h1> <h2>I'm a Data Analytics enthusiast with MSc in Applied Computing & Information Technology. I have a strong passion for turning data into actionable insights and leveraging technology to solve business challenges.</h2>
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Top UK YouTubers</b>
