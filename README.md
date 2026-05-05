@@ -3,7 +3,7 @@
 
 - <b>Portfolio Repository</b>
   - Excel Data Quality Analysis (https://github.com/MrAdjetey/Excel-Data-Cleaning-Project)
-  - Database Modelling - SQL 
+  - Database Modelling - SQL (https://github.com/MrAdjetey/DatabaseModellingProject-SQL)
   - Top 20 UK YouTubers 2024 (https://github.com/MrAdjetey/topUKyoutubers.github.io)
   - MaxMart Express Sales Performance (https://github.com/MrAdjetey/grocery_perfromance-maxM-)
 
