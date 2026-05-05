@@ -2,12 +2,14 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Portfolio Repository</b>
+  - Excel Data Quality Analysis (https://github.com/MrAdjetey/Excel-Data-Cleaning-Project)
   - Top 20 UK YouTubers 2024 (https://github.com/MrAdjetey/topUKyoutubers.github.io)
   - MaxMart Express Sales Performance (https://github.com/MrAdjetey/grocery_perfromance-maxM-)
 
 <h2>Project Website</h2>
 
 - <b>Porfolio Website</b>
+  - Excel Data Quality Analysis (https://github.com/MrAdjetey/Excel-Data-Cleaning-Project)
   - Top 20 UK YouTubers 2024 (https://mradjetey.github.io/topUKyoutubers.github.io/)
   - MaxMart Express Sales Performance (https://mradjetey.github.io/grocery_perfromance-maxM-/) 
 
